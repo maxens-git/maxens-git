@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Maxens</h1>
-- 👨‍💻 All of my projects are available at [https://e-portfolio.maxens.org](https://e-portfolio.maxens.org)
-
 - 📫 How to reach me **maxens.verron@etu.inp-n7.fr**
 
 <h3 align="left">Connect with me:</h3>
